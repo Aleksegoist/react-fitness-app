@@ -33,9 +33,12 @@ const Detail = ({ exerciseDetail }) => {
           {name}
         </Typography>
         <Typography variant='h6'>
-          Exercises keep your strong. {name} {` `} is one of the best exercises
-          to target your {target}. It will help you improve your mood and gain
-          energy.
+          Exercises keep your strong.{' '}
+          <span style={{ color: '#ff2625', textTransform: 'capitalize' }}>
+            {name}
+          </span>{' '}
+          {` `} is one of the best exercises to target your {target}. It will
+          help you improve your mood and gain energy.
         </Typography>
         {extraDetail.map((item) => (
           <Stack key={item.name} direction='row' gap='24px' alignItems='center'>
