@@ -9,11 +9,11 @@ const Navbar = () => {
       direction='row'
       justifyContent='space-around'
       sx={{
-        gap: { sm: '122px', xs: '40px' },
+        gap: { sm: '122px', xs: '5px' },
         mt: { sm: '32px', xs: '20px' },
         justifyContent: 'none',
       }}
-      px='20px'
+      px='8px'
     >
       <Link to='/'>
         <img

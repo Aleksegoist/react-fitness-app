@@ -104,6 +104,7 @@ body {
     width: 387px;
     height: 381px;
     text-decoration: none;
+    
   }
   
   @media screen and (max-width:1200px) {
@@ -131,7 +132,7 @@ body {
     }
   
     .exercise-video {
-      width: 320px;
+      width: 270px;
       height: 300px;
     }
   
@@ -139,6 +140,6 @@ body {
   
   @media screen and (max-width:400px) {
     .exercise-card {
-      width: 280px;
+      width: 260px;
     }
   }
