@@ -6,5 +6,7 @@
 - Fetching data from unlimited sources using RapidAPI
 
 ![This is an image](/src/assets/front/1.png)
+
 ![This is an image](/src/assets/front/2.png)
+
 ![This is an image](/src/assets/front/3.png)
